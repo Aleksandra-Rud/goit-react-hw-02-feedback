@@ -1,0 +1,30 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+
+.positive {
+  color: rgb(48, 226, 42);
+}
+
+.middle {
+  color: rgb(244, 104, 3);
+}
+
+.negative {
+  color: rgb(255, 0, 0);
+}
+
+.sum {
+  color: rgb(8, 5, 167);
+  display: block;
+  margin-top: 8px;
+}
+
+.percents {
+  color: rgb(0, 153, 255);
+}
